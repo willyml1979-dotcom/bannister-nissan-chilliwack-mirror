@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Nissan Chilliwack",
-  "generated_at": "2026-09-26T19:45:08",
-  "vehicle_count": 74,
+  "generated_at": "2026-10-02T16:28:04",
+  "vehicle_count": 96,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -295,6 +295,95 @@
       "condition": "used"
     },
     {
+      "name": "Used2025ChevroletTraxLT",
+      "vin": "KL77LHE29SC226910",
+      "stock": "N26-013",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/926fa3f33a1b.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-chevrolet-trax-lt-QauiS99rQRyjfsWUw3QEJQvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-chevrolet-trax-lt-QauiS99rQRyjfsWUw3QEJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:19:05",
+      "price": 24995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "Used2025HyundaiKonaPreferred",
+      "vin": "KM8HCCAB6SU314416",
+      "stock": "N26-013",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/24ee413c0b4a.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-kona-preferred-0WZw5bXnSjiGbhJoZc2m4Qvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-kona-preferred-0WZw5bXnSjiGbhJoZc2m4Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:19:18",
+      "price": 27995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "Used2025HyundaiVenuePreferred",
+      "vin": "KMHRC8A38SU388544",
+      "stock": "N26-014",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b66616de9eb9.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-venue-preferred-STUIHZjBQ4ON3cKo5XR7lwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-venue-preferred-STUIHZjBQ4ON3cKo5XR7lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:19:29",
+      "price": 21995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "Used2025KiaSeltosEX",
+      "vin": "KNDEUCAA9S7791884",
+      "stock": "N26-014",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/69ca445942b1.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-kia-seltos-ex-ZHzCrWySTlmv5xkAC4NgjAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-kia-seltos-ex-ZHzCrWySTlmv5xkAC4NgjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:19:42",
+      "price": 27995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "Used2025NissanKicks PlayS",
+      "vin": "3N1CP5BV7SL471747",
+      "stock": "N26-015",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8f63e21a60b5.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:19:54",
+      "condition": "new"
+    },
+    {
+      "name": "Used2025NissanKicks PlaySV",
+      "vin": "3N1CP5CV6SL479191",
+      "stock": "N26-014",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/dea1b313eb5e.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-sv-041XObDSSfWzxsMLrc1qWAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-sv-041XObDSSfWzxsMLrc1qWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:20:07",
+      "price": 20995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanArmadaPRO-4X",
+      "vin": "JN8AY3DE9T9451713",
+      "stock": "N266-17",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/5aa9b9d20f4c.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-boagS3xnRbq0aYNyqUlJkwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-boagS3xnRbq0aYNyqUlJkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:20:17",
+      "price": 86548.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "New2026NissanArmadaPRO-4X",
       "vin": "JN8AY3DE3T9450461",
       "stock": "N266-04",
@@ -315,7 +404,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b421da97e518.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-frontier-pro-4x-luxury-llkpd2iGSTexPIJzILo5owvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-frontier-pro-4x-luxury-llkpd2iGSTexPIJzILo5owvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:33:42",
+      "last_verified": "2026-10-02T16:25:09",
       "condition": "new"
     },
     {
@@ -398,6 +487,19 @@
     },
     {
       "name": "New2026NissanKicksSV",
+      "vin": "3N8AP6CB9TL404247",
+      "stock": "N262-42",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/627b81e21766.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-68wfksWQSl22GLHwqu5QMAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-68wfksWQSl22GLHwqu5QMAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:20:30",
+      "price": 32093.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanKicksSV",
       "vin": "3N8AP6CB2TL391440",
       "stock": "N262-14",
       "color": "Gray",
@@ -406,19 +508,6 @@
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-9mYksZ15QGOrNvzYZjGmzgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:38:42",
       "price": 33328.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026NissanKicksSV",
-      "vin": "3N8AP6CB8TL416373",
-      "stock": "N262-63",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/c08851076a6b.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-WsHkEYspQBiFrJ6P0yvsJgvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-WsHkEYspQBiFrJ6P0yvsJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:55",
-      "price": 33098.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -443,33 +532,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/944c9fde60e2.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-c13L0FpbSReda1dJsG5okAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-c13L0FpbSReda1dJsG5okAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:33:54",
-      "condition": "new"
-    },
-    {
-      "name": "New2026NissanKicksSV",
-      "vin": "3N8AP6CB3TL417317",
-      "stock": "N262-73",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/26a3c7284f6b.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-cc5iT0cZR9ixZFviuPSXOQvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-cc5iT0cZR9ixZFviuPSXOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:17",
-      "price": 33093.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026NissanKicksSV",
-      "vin": "3N8AP6CB8TL351623",
-      "stock": "N262-16",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/0d5b638e1f66.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-fCtd3gzjTYqkEnkED9dmTQvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-fCtd3gzjTYqkEnkED9dmTQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:29",
-      "price": 34473.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-02T16:25:22",
       "condition": "new"
     },
     {
@@ -486,19 +549,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026NissanKicksSV",
-      "vin": "3N8AP6CB1TL421429",
-      "stock": "N262-14",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/cc87ce01fa64.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-yy61UA9nTpSt3AeS9K5TgQvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-yy61UA9nTpSt3AeS9K5TgQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:53",
-      "price": 32298.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
       "name": "New2026NissanLEAFPLATINUM+",
       "vin": "JN1AZ2EB7TM309268",
       "stock": "N261-92",
@@ -506,8 +556,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/90a5539bb2df.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-leaf-platinum-FSF0mjMUS3Sw4VWPAxIHRAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-leaf-platinum-FSF0mjMUS3Sw4VWPAxIHRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:34:05",
-      "price": 51620.0,
+      "last_verified": "2026-10-02T16:25:34",
+      "price": 49620.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -532,7 +582,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/fe638cfe191d.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-MMsXOu62Rwe7zxfWqZjLwAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-MMsXOu62Rwe7zxfWqZjLwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:34:15",
+      "last_verified": "2026-10-02T16:25:47",
       "condition": "new"
     },
     {
@@ -558,6 +608,19 @@
       "condition": "new"
     },
     {
+      "name": "New2026NissanRogueDark Armor",
+      "vin": "JN8BT3BB0TW385565",
+      "stock": "N265-55",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/f86ed9209470.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-qlbr3qBGR2CjpgrpjXjjXgvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-qlbr3qBGR2CjpgrpjXjjXgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:20:43",
+      "price": 38198.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "New2026NissanRoguePlatinum",
       "vin": "JN8BT3DD5TW430529",
       "stock": "N265-05",
@@ -565,7 +628,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/db40cf3903e2.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-8OPBxtqkRGC2LLpO7TlAOQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-8OPBxtqkRGC2LLpO7TlAOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:34:27",
+      "last_verified": "2026-10-02T16:25:58",
+      "price": 44563.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -576,7 +641,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/fe5564b72a2e.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-BJj7W3zUShOXNMuCz4XkpAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-BJj7W3zUShOXNMuCz4XkpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:34:39",
+      "last_verified": "2026-10-02T16:26:09",
+      "price": 43828.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -587,7 +654,22 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/cbbfae77a2d4.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-EwbY8CwjRSSTfcWvBCyxogvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-EwbY8CwjRSSTfcWvBCyxogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:34:50",
+      "last_verified": "2026-10-02T16:26:20",
+      "price": 43828.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRoguePlatinum",
+      "vin": "JN8BT3DDXTW486675",
+      "stock": "N265-66",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/401c0b8da9a7.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-GjISsViuSiSUa5VDmdbTygvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-GjISsViuSiSUa5VDmdbTygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:20:55",
+      "price": 44143.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -598,7 +680,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/0fb2a2e6765c.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-O71LV2qkQeatWP8oZS0c4Avdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-O71LV2qkQeatWP8oZS0c4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:02",
+      "last_verified": "2026-10-02T16:26:32",
+      "price": 43698.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -609,7 +693,22 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/7ba14349b7bb.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-PyHIl9t7RPCt7EbVWp3Ivwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-PyHIl9t7RPCt7EbVWp3Ivwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:14",
+      "last_verified": "2026-10-02T16:26:44",
+      "price": 43698.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRoguePlatinum",
+      "vin": "JN8BT3DD3TW486727",
+      "stock": "N265-67",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8cb6b6045496.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-ZZnITZhGRIi1sR8Acugv6Avdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-ZZnITZhGRIi1sR8Acugv6Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:21:06",
+      "price": 43828.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -620,7 +719,35 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/2b447d790ec6.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-hRGkgRdmSXySpdZJgm9pcwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-hRGkgRdmSXySpdZJgm9pcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:25",
+      "last_verified": "2026-10-02T16:26:56",
+      "price": 43948.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRoguePlatinum",
+      "vin": "JN8BT3DD9TW486831",
+      "stock": "N265-68",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/6dd50bd74837.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-p2pggquLQVyXm9QgXh6zxAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-p2pggquLQVyXm9QgXh6zxAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:21:19",
+      "price": 44143.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRoguePlatinum",
+      "vin": "JN8BT3DD6TW487287",
+      "stock": "N265-72",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/7b3db99edb2b.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-wttcPIEBSYypT9sAtrXPWwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-wttcPIEBSYypT9sAtrXPWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:21:31",
+      "price": 44623.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -631,7 +758,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/286900ba65e0.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-y6vuioOVS6iOBT3RUhA7Pgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-y6vuioOVS6iOBT3RUhA7Pgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:35",
+      "last_verified": "2026-10-02T16:27:08",
+      "price": 44623.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -642,19 +771,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/2df0af28d42c.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-zq20MRIRRzuJo3hlCjozfwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-zq20MRIRRzuJo3hlCjozfwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:46",
-      "condition": "new"
-    },
-    {
-      "name": "New2026NissanRogue Plug-In HybridPlatinum",
-      "vin": "JA4T0MA94TZ622158",
-      "stock": "N265-21",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/f11072b00cfe.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-plug-in-hybrid-platinum-ZvTjnTKzQzSgSRHa5fAo1wvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-plug-in-hybrid-platinum-ZvTjnTKzQzSgSRHa5fAo1wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:58",
-      "price": 51048.0,
+      "last_verified": "2026-10-02T16:27:20",
+      "price": 45358.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -671,6 +789,19 @@
     },
     {
       "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB2TW383641",
+      "stock": "N265-36",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b47cfcf1cf6d.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-CzMc80N8THOIsOaH8Qivpgvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-CzMc80N8THOIsOaH8Qivpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:21:43",
+      "price": 39098.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
       "vin": "JN8BT3BB5TW379874",
       "stock": "N265-98",
       "color": "White",
@@ -682,13 +813,54 @@
     },
     {
       "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB5TW386260",
+      "stock": "N265-62",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/1127ab720da1.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-EjLIV0sdSF2gqj5hoGKhWAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-EjLIV0sdSF2gqj5hoGKhWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:21:53",
+      "price": 39198.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB4TW383933",
+      "stock": "N265-39",
+      "color": "Brown",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/7f77bd219895.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-KTIOfZKoRnCYpNcjVTuptgvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-KTIOfZKoRnCYpNcjVTuptgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:06",
+      "price": 39198.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
       "vin": "JN8BT3BB6TW389846",
       "stock": "N265-98",
       "color": "Tan",
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/cef325063cd3.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-Q4IPoXq3Q3mPPXrRbeXGwAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-Q4IPoXq3Q3mPPXrRbeXGwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:07",
+      "last_verified": "2026-10-02T16:27:32",
+      "price": 40213.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB8TW383370",
+      "stock": "N265-33",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/2042d80314a4.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-UgVgwuNMSPy9YnMpwds0VAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-UgVgwuNMSPy9YnMpwds0VAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:19",
+      "price": 39478.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -699,7 +871,22 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/2b5a3aecb041.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-XArd86fXQeOY0VNZllkH2gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-XArd86fXQeOY0VNZllkH2gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:18",
+      "last_verified": "2026-10-02T16:27:44",
+      "price": 40213.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB9TW380896",
+      "stock": "N265-08",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/718b489b2e6a.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-awsXxIc6QfG6oFKC7fVa3gvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-awsXxIc6QfG6oFKC7fVa3gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:30",
+      "price": 39228.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -715,13 +902,67 @@
     },
     {
       "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB3TW384135",
+      "stock": "N265-41",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/9dc1adabeb6d.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-euLJlTcwSIyYiT7hmVdezQvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-euLJlTcwSIyYiT7hmVdezQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:42",
+      "price": 37048.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
       "vin": "JN8BT3BBXTW388800",
       "stock": "N265-88",
       "color": "Tan",
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/bc69b8b572ce.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-upmvSnDGQVyR1mGMKVGJewvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-upmvSnDGQVyR1mGMKVGJewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:30",
+      "last_verified": "2026-10-02T16:27:58",
+      "price": 40213.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BBXTW383337",
+      "stock": "N265-33",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/fb3c970abb88.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zWHzKf6USJakTPa3aymN9wvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zWHzKf6USJakTPa3aymN9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:22:54",
+      "price": 39228.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB8TW383773",
+      "stock": "N265-37",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/165f1a91f605.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zk5K7vZyRkmZKP5MPEUFMwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zk5K7vZyRkmZKP5MPEUFMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:04",
+      "price": 39743.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueRock Creek",
+      "vin": "JN8BT3BB0TW385582",
+      "stock": "N265-55",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/4830f93ecb65.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zljGG2YRRUOcPKIyxR0qDQvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-zljGG2YRRUOcPKIyxR0qDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:15",
+      "price": 39643.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -739,19 +980,6 @@
     },
     {
       "name": "New2026NissanRogueS",
-      "vin": "JN8BT3AB4TW098439",
-      "stock": "N265-84",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/a2796fd6a98f.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-Q0Lx4QCHSVmx6G5MJEyAhQvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-Q0Lx4QCHSVmx6G5MJEyAhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:17",
-      "price": 35448.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026NissanRogueS",
       "vin": "JN8BT3AB5TW099776",
       "stock": "N265-97",
       "color": "White",
@@ -760,6 +988,19 @@
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-W2H3XSt9TLSHYwkzOih3iwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T19:43:31",
       "price": 36528.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "New2026NissanRogueSV Moonroof",
+      "vin": "JN8BT3BB0TW100962",
+      "stock": "N265-09",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/915aedca4522.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-alPr2AcwREyeUMZrk0eiVwvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-alPr2AcwREyeUMZrk0eiVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:29",
+      "price": 36863.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -814,16 +1055,36 @@
       "condition": "new"
     },
     {
-      "name": "Used2026VolkswagenTaosComfortline",
-      "vin": "3VVUC7B27TM018112",
-      "stock": "N26-012",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/3e8a2f169b1c.html",
-      "source_url": "https://www.bannisternissan.ca/inventory/2026-volkswagen-taos-comfortline-lZJeMGjARvCnHS12Jn8qdAvdp",
-      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-volkswagen-taos-comfortline-lZJeMGjARvCnHS12Jn8qdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:41",
-      "price": 31495.0,
-      "price_currency": "CAD",
+      "name": "New2027NissanKicksS",
+      "vin": "3N8AP6BB8VL301373",
+      "stock": "N272-13",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/bfb8280509ba.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-s-781X1QBxTIu4kB1aD5fAjQvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-s-781X1QBxTIu4kB1aD5fAjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:43",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanKicksSR",
+      "vin": "3N8AP6DD4VL321568",
+      "stock": "N272-15",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/d1bed9b8245a.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:23:56",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanKicksSV",
+      "vin": "3N8AP6CB0VL301561",
+      "stock": "N272-15",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b5efaf66ad27.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sv-9KkFbs2DQPu5YMGYSoM8twvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sv-9KkFbs2DQPu5YMGYSoM8twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:24:10",
       "condition": "new"
     },
     {
@@ -835,6 +1096,28 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T19:44:27",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanLEAFS",
+      "vin": "JN1BZ2BA6VM400101",
+      "stock": "N279-01",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/1fce48dc5074.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-OTqGzwKNSpynzMaTHPQh6gvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-OTqGzwKNSpynzMaTHPQh6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:24:35",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanLEAFS",
+      "vin": "JN1BZ2BAXVM400263",
+      "stock": "N279-02",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/721189d4cbf8.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-XurdMsMVT1GDckWCrO83iQvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-XurdMsMVT1GDckWCrO83iQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:24:48",
       "condition": "new"
     },
     {
@@ -868,6 +1151,19 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-BiJMWwjXT6i3Z7NqaoRxOAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-BiJMWwjXT6i3Z7NqaoRxOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:37:03",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanLEAFSV+",
+      "vin": "JN1AZ2CAXVM401519",
+      "stock": "N271-15",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/a5d8f2822a1d.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-iYkkWsUERWu5ubbV4ZYt2wvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-iYkkWsUERWu5ubbV4ZYt2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-02T16:24:59",
+      "price": 46193.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {

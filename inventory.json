@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Nissan Chilliwack",
-  "generated_at": "2026-10-03T15:29:06",
-  "vehicle_count": 112,
+  "generated_at": "2026-10-03T16:33:18",
+  "vehicle_count": 115,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -608,8 +608,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/704dc96a256b.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-4kHDzKikTKeQ1VfwnEWMKQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-4kHDzKikTKeQ1VfwnEWMKQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:34",
-      "price": 31528.0,
+      "last_verified": "2026-10-03T16:31:09",
+      "price": 29048.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -621,8 +621,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/7471951963ed.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-Fdsd3L4dTTewT4cvvBvUgAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-Fdsd3L4dTTewT4cvvBvUgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:46",
-      "price": 30528.0,
+      "last_verified": "2026-10-03T16:31:20",
+      "price": 28928.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -634,8 +634,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8f92904dec44.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-zuepr2BoT5GFcdcUGDFiaQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-s-zuepr2BoT5GFcdcUGDFiaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:57",
-      "price": 31828.0,
+      "last_verified": "2026-10-03T16:31:32",
+      "price": 29428.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -647,8 +647,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/1017661d2b81.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sr-C1H5qm61QrCvV68YkwS88wvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sr-C1H5qm61QrCvV68YkwS88wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:41:46",
-      "price": 36448.0,
+      "last_verified": "2026-10-03T16:31:44",
+      "price": 34448.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -660,8 +660,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/13c660ea9d27.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sr-f6eIXovJQYqSjH2afQ3BMwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sr-f6eIXovJQYqSjH2afQ3BMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:41:58",
-      "price": 36698.0,
+      "last_verified": "2026-10-03T16:31:56",
+      "price": 34698.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -673,8 +673,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/0209bc571526.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-589KS6yOSOKpGC8n5TbNYQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-589KS6yOSOKpGC8n5TbNYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:31",
-      "price": 33093.0,
+      "last_verified": "2026-10-03T16:32:09",
+      "price": 32093.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -699,8 +699,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/2832799ec3dd.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-9mYksZ15QGOrNvzYZjGmzgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-9mYksZ15QGOrNvzYZjGmzgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:42",
-      "price": 33328.0,
+      "last_verified": "2026-10-03T16:32:22",
+      "price": 31548.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -712,8 +712,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b892a4917ac3.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-YS7RyjkNSKS6Gqh4own72gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-YS7RyjkNSKS6Gqh4own72gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:06",
-      "price": 33348.0,
+      "last_verified": "2026-10-03T16:32:36",
+      "price": 32348.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -736,8 +736,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/12b9fef767e2.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-gJ4R3xiDSAGFCbQF5Bu7Ugvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-gJ4R3xiDSAGFCbQF5Bu7Ugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:42",
-      "price": 32648.0,
+      "last_verified": "2026-10-03T16:32:47",
+      "price": 31648.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -762,7 +762,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/e45fd7f23467.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-leaf-s-CmLjGgI9TTOCkuhOnWARWgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-leaf-s-CmLjGgI9TTOCkuhOnWARWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:40:04",
+      "last_verified": "2026-10-03T16:33:00",
       "price": 38248.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -779,6 +779,17 @@
       "condition": "new"
     },
     {
+      "name": "New2026NissanPathfinderPlatinum",
+      "vin": "5N1DR3DJXTC293898",
+      "stock": "N266-38",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/e98135d12c42.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-g9OIAqTsRVS9HX8Yebe78Avdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-g9OIAqTsRVS9HX8Yebe78Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:29:50",
+      "condition": "new"
+    },
+    {
       "name": "New2026NissanRogueDark Armor",
       "vin": "JN8BT3BB4TW380546",
       "stock": "N265-05",
@@ -786,7 +797,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/80461665711e.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-IA5Oh6BgQB26tm03994TPQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-IA5Oh6BgQB26tm03994TPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:44:09",
+      "last_verified": "2026-10-03T16:33:12",
+      "price": 38098.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1248,6 +1261,17 @@
       "condition": "new"
     },
     {
+      "name": "New2027NissanFrontier",
+      "vin": "1N6ED1EK0VN604486",
+      "stock": "N277-44",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8880f5fed24d.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-bL6tfM0hTOO2uoNzo6hp7gvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-bL6tfM0hTOO2uoNzo6hp7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:30:00",
+      "condition": "new"
+    },
+    {
       "name": "New2027NissanKicksS",
       "vin": "3N8AP6BB8VL301373",
       "stock": "N272-13",
@@ -1267,6 +1291,17 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:56",
+      "condition": "new"
+    },
+    {
+      "name": "New2027NissanKicksSR",
+      "vin": "3N8AP6DD5VL322065",
+      "stock": "N272-20",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/475a3b4a5296.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-a5H32Yl7QiaOaVwmH7tN4Avdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-a5H32Yl7QiaOaVwmH7tN4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T16:30:12",
       "condition": "new"
     },
     {
@@ -1332,7 +1367,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/208b7743a9c8.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-2Q92ajTVR5uSvym8Hl1lDQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-2Q92ajTVR5uSvym8Hl1lDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:51",
+      "last_verified": "2026-10-03T16:30:23",
+      "price": 45648.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1343,7 +1380,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/41482aa81b47.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-BiJMWwjXT6i3Z7NqaoRxOAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-sv-BiJMWwjXT6i3Z7NqaoRxOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:03",
+      "last_verified": "2026-10-03T16:30:35",
+      "price": 46193.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1367,7 +1406,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/1f55d1f95ace.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:13",
+      "last_verified": "2026-10-03T16:30:47",
       "condition": "new"
     },
     {
@@ -1378,7 +1417,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/f5c7a5ae0da4.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:22",
+      "last_verified": "2026-10-03T16:30:57",
       "condition": "new"
     },
     {

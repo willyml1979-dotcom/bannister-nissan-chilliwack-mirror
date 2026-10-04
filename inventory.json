@@ -1,6 +1,6 @@
 {
   "dealership": "Bannister Nissan Chilliwack",
-  "generated_at": "2026-10-03T16:33:18",
+  "generated_at": "2026-10-04T16:40:10",
   "vehicle_count": 115,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -584,8 +584,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8392c8b8eeac.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-fcnmY7sBRGyX0nyboYduRgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-fcnmY7sBRGyX0nyboYduRgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:45:02",
-      "price": 93748.0,
+      "last_verified": "2026-10-04T16:39:54",
+      "price": 88748.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -990,7 +990,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/f7f570a74376.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-3x5pW3zuSLCxmC10a4vyRQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-3x5pW3zuSLCxmC10a4vyRQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:42:29",
+      "last_verified": "2026-10-04T16:37:22",
+      "price": 40213.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1014,7 +1016,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/dc0851ff596b.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-DJlqduMXRaqq4onpdP5HvQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-DJlqduMXRaqq4onpdP5HvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:42:40",
+      "last_verified": "2026-10-04T16:37:35",
+      "price": 38928.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1103,7 +1107,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b120096d65ac.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-eKOnf2VoQByY5sVWUgx0AAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-eKOnf2VoQByY5sVWUgx0AAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:42:52",
+      "last_verified": "2026-10-04T16:37:48",
+      "price": 38948.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1179,8 +1185,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/43a7f5017ff9.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-Nl9N7OC7RMmqOJ8meMaOwAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-Nl9N7OC7RMmqOJ8meMaOwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:04",
-      "price": 34495.0,
+      "last_verified": "2026-10-04T16:38:00",
+      "price": 34995.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1192,9 +1198,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/a2d6810b4c79.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-W2H3XSt9TLSHYwkzOih3iwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-W2H3XSt9TLSHYwkzOih3iwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:31",
-      "price": 36528.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-04T16:38:12",
       "condition": "new"
     },
     {
@@ -1218,7 +1222,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/3c59a2621892.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-oFkluXrGTmOCtqxM2pIIYgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-sv-moonroof-oFkluXrGTmOCtqxM2pIIYgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:43",
+      "last_verified": "2026-10-04T16:38:23",
+      "price": 35998.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1229,9 +1235,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/29ea570c0a71.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-NCHgOPXiS5qeSVzN540R4gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-NCHgOPXiS5qeSVzN540R4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:52",
-      "price": 31018.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-04T16:38:36",
       "condition": "new"
     },
     {
@@ -1242,9 +1246,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8b6b61c87abb.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-P4X0uZbjTVSBHbsAm7LvrQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-P4X0uZbjTVSBHbsAm7LvrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:04",
-      "price": 29713.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-04T16:38:49",
       "condition": "new"
     },
     {
@@ -1255,9 +1257,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/15bf037b5c95.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sv-vTQ0gvrwSjafXcQ9FpfnoAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sv-vTQ0gvrwSjafXcQ9FpfnoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:17",
-      "price": 29718.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-04T16:39:02",
       "condition": "new"
     },
     {
@@ -1323,7 +1323,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/80ec72237332.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:27",
+      "last_verified": "2026-10-04T16:39:14",
       "condition": "new"
     },
     {
@@ -1356,7 +1356,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/3c665a116ff9.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-ZYjUVgY4TmmkWPeBV9THpQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-ZYjUVgY4TmmkWPeBV9THpQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:38",
+      "last_verified": "2026-10-04T16:39:26",
       "condition": "new"
     },
     {
@@ -1421,14 +1421,14 @@
       "condition": "new"
     },
     {
-      "name": "90 Vehicles For Sale in Chilliwack, BC",
+      "name": "91 Vehicles For Sale in Chilliwack, BC",
       "vin": "5XYPHDA1XJG365531",
       "stock": "N262-54",
       "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/ad1db75f7228.html",
       "source_url": "https://www.bannisternissan.ca/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH",
       "dealer_url": "https://www.bannisternissan.ca/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:51",
+      "last_verified": "2026-10-04T16:39:41",
       "price": 19995.0,
       "price_currency": "CAD",
       "condition": "new"

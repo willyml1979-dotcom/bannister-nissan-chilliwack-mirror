@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Nissan Chilliwack",
-  "generated_at": "2026-10-04T16:40:10",
-  "vehicle_count": 115,
+  "generated_at": "2026-10-07T20:50:57",
+  "vehicle_count": 116,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -16,7 +16,9 @@
       "last_verified": "2026-10-03T15:26:37",
       "price": 9995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2017MazdaMazda5GT",
@@ -29,7 +31,9 @@
       "last_verified": "2026-10-03T15:26:48",
       "price": 10995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2017NissanTitan XDSV",
@@ -42,7 +46,9 @@
       "last_verified": "2026-10-03T15:26:59",
       "price": 18995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2017Ram1500Express",
@@ -55,7 +61,9 @@
       "last_verified": "2026-10-03T15:27:09",
       "price": 16995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2017Ram3500SLT",
@@ -66,7 +74,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2017-ram-3500-slt-3RrTscS0SRC9nqOaLzo19wvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2017-ram-3500-slt-3RrTscS0SRC9nqOaLzo19wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:27:20",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2017Ram3500SLT",
@@ -79,7 +89,9 @@
       "last_verified": "2026-10-03T15:27:30",
       "price": 33995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2018KiaSorentoEX Turbo",
@@ -92,7 +104,9 @@
       "last_verified": "2026-10-03T15:27:40",
       "price": 19995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2018Mercedes-BenzC-ClassC 300",
@@ -105,7 +119,9 @@
       "last_verified": "2026-10-03T15:27:52",
       "price": 22995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2018Mercedes-BenzC-ClassC 300",
@@ -116,7 +132,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2018-mercedes-benz-c-class-c-300-LAbdNInjTjKW9LxA8MUkugvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2018-mercedes-benz-c-class-c-300-LAbdNInjTjKW9LxA8MUkugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:00",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2019HondaHR-VTouring",
@@ -127,7 +145,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2019-honda-hr-v-touring-Qe7TkMGgQDWlp5ni7FSGZAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2019-honda-hr-v-touring-Qe7TkMGgQDWlp5ni7FSGZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanRogue",
@@ -137,7 +157,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2019-nissan-rogue-RqOkPWHKQiWUb3c73zUzhQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2019-nissan-rogue-RqOkPWHKQiWUb3c73zUzhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:22:38",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2021NissanLEAFSV",
@@ -148,7 +170,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2021-nissan-leaf-sv-Elp6WVCYQ4qJkN3byl3qMQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2021-nissan-leaf-sv-Elp6WVCYQ4qJkN3byl3qMQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:28:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2022KiaSportageLX",
@@ -159,7 +183,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2022-kia-sportage-lx-T4l1PFtKSam99xJaXCvb8gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2022-kia-sportage-lx-T4l1PFtKSam99xJaXCvb8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:22:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2022NissanPathfinderPlatinum",
@@ -170,7 +196,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2022-nissan-pathfinder-platinum-Ct8Zaf6NTkKQjKLUz5tZmQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2022-nissan-pathfinder-platinum-Ct8Zaf6NTkKQjKLUz5tZmQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:22:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2022NissanPathfinderPlatinum",
@@ -181,7 +209,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2022-nissan-pathfinder-platinum-bb55REAPSbyyZrOyPiGUhwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2022-nissan-pathfinder-platinum-bb55REAPSbyyZrOyPiGUhwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:23:06",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2023ToyotaCorolla Hatchback",
@@ -194,7 +224,9 @@
       "last_verified": "2026-10-03T15:23:17",
       "price": 24995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024ChryslerGrand CaravanSXT",
@@ -207,7 +239,9 @@
       "last_verified": "2026-10-03T15:23:27",
       "price": 32995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024FordEscapePlatinum",
@@ -220,7 +254,9 @@
       "last_verified": "2026-10-03T15:23:38",
       "price": 29995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024GMCYukonSLE",
@@ -233,7 +269,9 @@
       "last_verified": "2026-10-03T15:28:31",
       "price": 53495.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024JeepWagoneerSeries II Carbide",
@@ -246,7 +284,9 @@
       "last_verified": "2026-10-03T15:28:41",
       "price": 48495.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024NissanSentraSV",
@@ -257,7 +297,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2024-nissan-sentra-sv-6yEgmeW6SXScNeSHMhKeZAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2024-nissan-sentra-sv-6yEgmeW6SXScNeSHMhKeZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:23:46",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024ToyotaCorollaLE",
@@ -270,7 +312,9 @@
       "last_verified": "2026-10-03T15:23:58",
       "price": 23495.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2024VolkswagenTaosTrendline",
@@ -283,7 +327,9 @@
       "last_verified": "2026-10-03T15:24:11",
       "price": 23995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletSilverado 1500LT",
@@ -296,7 +342,9 @@
       "last_verified": "2026-10-03T15:28:52",
       "price": 46995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletTraxLT",
@@ -309,7 +357,9 @@
       "last_verified": "2026-10-03T15:24:20",
       "price": 24995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025FordBronco SportBig Bend",
@@ -322,7 +372,9 @@
       "last_verified": "2026-10-03T15:24:28",
       "price": 28995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025HyundaiKonaPreferred",
@@ -335,7 +387,9 @@
       "last_verified": "2026-10-03T15:24:37",
       "price": 27995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025HyundaiTucsonPreferred",
@@ -348,7 +402,9 @@
       "last_verified": "2026-10-03T15:24:47",
       "price": 29995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025HyundaiVenuePreferred",
@@ -361,7 +417,9 @@
       "last_verified": "2026-10-03T15:24:59",
       "price": 21995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaSeltosEX",
@@ -374,7 +432,9 @@
       "last_verified": "2026-10-03T15:25:09",
       "price": 27995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanKicks PlayS",
@@ -385,7 +445,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanKicks PlaySV",
@@ -398,7 +460,9 @@
       "last_verified": "2026-10-03T15:25:31",
       "price": 20995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanRogueS",
@@ -409,7 +473,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-rogue-s-PIrldUAyQYCYQRdqq3lc9gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-rogue-s-PIrldUAyQYCYQRdqq3lc9gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025Ram1500Sport",
@@ -420,7 +486,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2025-ram-1500-sport-0IO42dAuSfCv19Nkvz1VtAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-ram-1500-sport-0IO42dAuSfCv19Nkvz1VtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T15:25:54",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025ToyotaRAV4LE",
@@ -433,7 +501,9 @@
       "last_verified": "2026-10-03T15:26:05",
       "price": 35995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2026ChevroletEquinoxAWD LT",
@@ -446,7 +516,9 @@
       "last_verified": "2026-10-03T15:26:14",
       "price": 31995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaSportageLX",
@@ -459,7 +531,9 @@
       "last_verified": "2026-10-03T15:26:27",
       "price": 34495.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2026VolkswagenTaosComfortline",
@@ -472,7 +546,9 @@
       "last_verified": "2026-10-03T15:29:01",
       "price": 31495.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "91 Vehicles For Sale in Chilliwack, BC",
@@ -485,7 +561,9 @@
       "last_verified": "2026-09-23T18:40:35",
       "price": 19995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletTraxLT",
@@ -498,7 +576,9 @@
       "last_verified": "2026-10-02T16:19:05",
       "price": 24995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025HyundaiKonaPreferred",
@@ -508,10 +588,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/24ee413c0b4a.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-kona-preferred-0WZw5bXnSjiGbhJoZc2m4Qvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-kona-preferred-0WZw5bXnSjiGbhJoZc2m4Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:19:18",
+      "last_verified": "2026-10-07T20:48:31",
       "price": 27995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025HyundaiVenuePreferred",
@@ -521,10 +603,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b66616de9eb9.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-venue-preferred-STUIHZjBQ4ON3cKo5XR7lwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-hyundai-venue-preferred-STUIHZjBQ4ON3cKo5XR7lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:19:29",
+      "last_verified": "2026-10-07T20:48:42",
       "price": 21995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaSeltosEX",
@@ -534,10 +618,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/69ca445942b1.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2025-kia-seltos-ex-ZHzCrWySTlmv5xkAC4NgjAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-kia-seltos-ex-ZHzCrWySTlmv5xkAC4NgjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:19:42",
+      "last_verified": "2026-10-07T20:48:54",
       "price": 27995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanKicks PlayS",
@@ -547,8 +633,10 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8f63e21a60b5.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-s-Ogj1ABWfQiCDuCfXCI4fMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:19:54",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:49:04",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanKicks PlaySV",
@@ -558,10 +646,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/dea1b313eb5e.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-sv-041XObDSSfWzxsMLrc1qWAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2025-nissan-kicks-play-sv-041XObDSSfWzxsMLrc1qWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:20:07",
+      "last_verified": "2026-10-07T20:49:16",
       "price": 20995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanArmadaPRO-4X",
@@ -571,10 +661,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/5aa9b9d20f4c.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-boagS3xnRbq0aYNyqUlJkwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-armada-pro-4x-boagS3xnRbq0aYNyqUlJkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:20:17",
+      "last_verified": "2026-10-07T20:49:28",
       "price": 86548.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanArmadaPRO-4X",
@@ -587,7 +679,9 @@
       "last_verified": "2026-10-04T16:39:54",
       "price": 88748.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanFrontierPRO-4X Luxury",
@@ -598,7 +692,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-frontier-pro-4x-luxury-llkpd2iGSTexPIJzILo5owvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-frontier-pro-4x-luxury-llkpd2iGSTexPIJzILo5owvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksS",
@@ -611,7 +707,9 @@
       "last_verified": "2026-10-03T16:31:09",
       "price": 29048.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksS",
@@ -624,7 +722,9 @@
       "last_verified": "2026-10-03T16:31:20",
       "price": 28928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksS",
@@ -637,7 +737,9 @@
       "last_verified": "2026-10-03T16:31:32",
       "price": 29428.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSR",
@@ -650,7 +752,9 @@
       "last_verified": "2026-10-03T16:31:44",
       "price": 34448.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSR",
@@ -663,7 +767,9 @@
       "last_verified": "2026-10-03T16:31:56",
       "price": 34698.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -676,7 +782,9 @@
       "last_verified": "2026-10-03T16:32:09",
       "price": 32093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -689,7 +797,9 @@
       "last_verified": "2026-10-02T16:20:30",
       "price": 32093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -702,7 +812,9 @@
       "last_verified": "2026-10-03T16:32:22",
       "price": 31548.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -715,7 +827,9 @@
       "last_verified": "2026-10-03T16:32:36",
       "price": 32348.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -726,7 +840,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-c13L0FpbSReda1dJsG5okAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-kicks-sv-c13L0FpbSReda1dJsG5okAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanKicksSV",
@@ -739,7 +855,9 @@
       "last_verified": "2026-10-03T16:32:47",
       "price": 31648.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanLEAFPLATINUM+",
@@ -752,7 +870,9 @@
       "last_verified": "2026-10-02T16:25:34",
       "price": 49620.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanLEAFS+",
@@ -765,7 +885,9 @@
       "last_verified": "2026-10-03T16:33:00",
       "price": 38248.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanPathfinderPlatinum",
@@ -776,7 +898,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-MMsXOu62Rwe7zxfWqZjLwAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-MMsXOu62Rwe7zxfWqZjLwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:25:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanPathfinderPlatinum",
@@ -787,7 +911,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-g9OIAqTsRVS9HX8Yebe78Avdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-pathfinder-platinum-g9OIAqTsRVS9HX8Yebe78Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:29:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueDark Armor",
@@ -800,7 +926,9 @@
       "last_verified": "2026-10-03T16:33:12",
       "price": 38098.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueDark Armor",
@@ -810,8 +938,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/3b639cc6d2b6.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-kKWsNiNAT3OSSyDry5wdJAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-kKWsNiNAT3OSSyDry5wdJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:42:16",
-      "condition": "new"
+      "last_verified": "2026-10-07T20:48:20",
+      "price": 39213.0,
+      "price_currency": "CAD",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueDark Armor",
@@ -821,10 +953,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/f86ed9209470.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-qlbr3qBGR2CjpgrpjXjjXgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-dark-armor-qlbr3qBGR2CjpgrpjXjjXgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:20:43",
+      "last_verified": "2026-10-07T20:49:45",
       "price": 38198.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -837,7 +971,9 @@
       "last_verified": "2026-10-02T16:25:58",
       "price": 44563.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -850,7 +986,9 @@
       "last_verified": "2026-10-02T16:26:09",
       "price": 43828.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -863,7 +1001,9 @@
       "last_verified": "2026-10-02T16:26:20",
       "price": 43828.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -873,10 +1013,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/401c0b8da9a7.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-GjISsViuSiSUa5VDmdbTygvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-GjISsViuSiSUa5VDmdbTygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:20:55",
+      "last_verified": "2026-10-07T20:49:57",
       "price": 44143.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -889,7 +1031,9 @@
       "last_verified": "2026-10-02T16:26:32",
       "price": 43698.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -902,7 +1046,9 @@
       "last_verified": "2026-10-02T16:26:44",
       "price": 43698.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -912,10 +1058,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/8cb6b6045496.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-ZZnITZhGRIi1sR8Acugv6Avdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-ZZnITZhGRIi1sR8Acugv6Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:06",
+      "last_verified": "2026-10-07T20:50:07",
       "price": 43828.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -928,7 +1076,9 @@
       "last_verified": "2026-10-02T16:26:56",
       "price": 43948.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -938,10 +1088,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/6dd50bd74837.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-p2pggquLQVyXm9QgXh6zxAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-p2pggquLQVyXm9QgXh6zxAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:19",
+      "last_verified": "2026-10-07T20:50:19",
       "price": 44143.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -951,10 +1103,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/7b3db99edb2b.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-wttcPIEBSYypT9sAtrXPWwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-platinum-wttcPIEBSYypT9sAtrXPWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:31",
+      "last_verified": "2026-10-07T20:50:30",
       "price": 44623.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -967,7 +1121,9 @@
       "last_verified": "2026-10-02T16:27:08",
       "price": 44623.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRoguePlatinum",
@@ -980,7 +1136,9 @@
       "last_verified": "2026-10-02T16:27:20",
       "price": 45358.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -993,7 +1151,9 @@
       "last_verified": "2026-10-04T16:37:22",
       "price": 40213.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1003,10 +1163,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/b47cfcf1cf6d.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-CzMc80N8THOIsOaH8Qivpgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-CzMc80N8THOIsOaH8Qivpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:43",
+      "last_verified": "2026-10-07T20:50:41",
       "price": 39098.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1019,7 +1181,9 @@
       "last_verified": "2026-10-04T16:37:35",
       "price": 38928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1029,10 +1193,12 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/1127ab720da1.html",
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-EjLIV0sdSF2gqj5hoGKhWAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-rock-creek-EjLIV0sdSF2gqj5hoGKhWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:53",
+      "last_verified": "2026-10-07T20:50:53",
       "price": 39198.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1045,7 +1211,9 @@
       "last_verified": "2026-10-02T16:22:06",
       "price": 39198.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1058,7 +1226,9 @@
       "last_verified": "2026-10-02T16:27:32",
       "price": 40213.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1071,7 +1241,9 @@
       "last_verified": "2026-10-02T16:22:19",
       "price": 39478.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1084,7 +1256,9 @@
       "last_verified": "2026-10-02T16:27:44",
       "price": 40213.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1097,7 +1271,9 @@
       "last_verified": "2026-10-02T16:22:30",
       "price": 39228.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1110,7 +1286,9 @@
       "last_verified": "2026-10-04T16:37:48",
       "price": 38948.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1123,7 +1301,9 @@
       "last_verified": "2026-10-02T16:22:42",
       "price": 37048.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1136,7 +1316,9 @@
       "last_verified": "2026-10-02T16:27:58",
       "price": 40213.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1149,7 +1331,9 @@
       "last_verified": "2026-10-02T16:22:54",
       "price": 39228.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1162,7 +1346,9 @@
       "last_verified": "2026-10-02T16:23:04",
       "price": 39743.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueRock Creek",
@@ -1175,7 +1361,9 @@
       "last_verified": "2026-10-02T16:23:15",
       "price": 39643.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueS",
@@ -1188,7 +1376,9 @@
       "last_verified": "2026-10-04T16:38:00",
       "price": 34995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueS",
@@ -1199,7 +1389,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-W2H3XSt9TLSHYwkzOih3iwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-rogue-s-W2H3XSt9TLSHYwkzOih3iwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:38:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueSV Moonroof",
@@ -1212,7 +1404,9 @@
       "last_verified": "2026-10-02T16:23:29",
       "price": 36863.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanRogueSV Moonroof",
@@ -1225,7 +1419,9 @@
       "last_verified": "2026-10-04T16:38:23",
       "price": 35998.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanSentraSR",
@@ -1236,7 +1432,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-NCHgOPXiS5qeSVzN540R4gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-NCHgOPXiS5qeSVzN540R4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:38:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanSentraSR",
@@ -1247,7 +1445,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-P4X0uZbjTVSBHbsAm7LvrQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sr-P4X0uZbjTVSBHbsAm7LvrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:38:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2026NissanSentraSV",
@@ -1258,7 +1458,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sv-vTQ0gvrwSjafXcQ9FpfnoAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2026-nissan-sentra-sv-vTQ0gvrwSjafXcQ9FpfnoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:39:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanFrontier",
@@ -1269,7 +1471,22 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-bL6tfM0hTOO2uoNzo6hp7gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-bL6tfM0hTOO2uoNzo6hp7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
+    },
+    {
+      "name": "New2027NissanFrontierPRO-4X",
+      "vin": "1N6ED1EK0VN604486",
+      "stock": "N277-44",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-nissan-chilliwack-mirror/new/45631a5d410d.html",
+      "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-pro-4x-bL6tfM0hTOO2uoNzo6hp7gvdp",
+      "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-frontier-pro-4x-bL6tfM0hTOO2uoNzo6hp7gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:48:06",
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanKicksS",
@@ -1280,7 +1497,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-s-781X1QBxTIu4kB1aD5fAjQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-s-781X1QBxTIu4kB1aD5fAjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanKicksSR",
@@ -1291,7 +1510,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-XzipXolCTGOpVSMaISAukAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:23:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanKicksSR",
@@ -1302,7 +1523,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-a5H32Yl7QiaOaVwmH7tN4Avdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sr-a5H32Yl7QiaOaVwmH7tN4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanKicksSV",
@@ -1313,7 +1536,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sv-9KkFbs2DQPu5YMGYSoM8twvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-kicks-sv-9KkFbs2DQPu5YMGYSoM8twvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFS",
@@ -1324,7 +1549,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-N4wVH0n2TfiwZK6GNWyHZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:39:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFS",
@@ -1335,7 +1562,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-OTqGzwKNSpynzMaTHPQh6gvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-OTqGzwKNSpynzMaTHPQh6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFS",
@@ -1346,7 +1575,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-XurdMsMVT1GDckWCrO83iQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-XurdMsMVT1GDckWCrO83iQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:24:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFS",
@@ -1357,7 +1588,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-ZYjUVgY4TmmkWPeBV9THpQvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-leaf-s-ZYjUVgY4TmmkWPeBV9THpQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T16:39:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFSV+",
@@ -1370,7 +1603,9 @@
       "last_verified": "2026-10-03T16:30:23",
       "price": 45648.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFSV+",
@@ -1383,7 +1618,9 @@
       "last_verified": "2026-10-03T16:30:35",
       "price": 46193.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanLEAFSV+",
@@ -1396,7 +1633,9 @@
       "last_verified": "2026-10-02T16:24:59",
       "price": 46193.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanMuranoPlatinum",
@@ -1407,7 +1646,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-platinum-W6nYuuxsSuSH2sD32IOZsgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "New2027NissanMuranoSL",
@@ -1418,7 +1659,9 @@
       "source_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp",
       "dealer_url": "https://www.bannisternissan.ca/inventory/2027-nissan-murano-sl-RIMmceBASEWWM5aldiPlZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T16:30:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     },
     {
       "name": "91 Vehicles For Sale in Chilliwack, BC",
@@ -1431,7 +1674,9 @@
       "last_verified": "2026-10-04T16:39:41",
       "price": 19995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Chilliwack",
+      "province": "BC"
     }
   ]
 }
